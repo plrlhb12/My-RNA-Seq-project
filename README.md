@@ -3,7 +3,7 @@
  
  2.Shell scripts for hisat2-stringtie
  
- 3.Shell scripts for intron retension analysis
+ 3.Shell scripts for intron retention analysis
  
  4.R scripts for differential expression analysis using DESeq2
  
