@@ -5,6 +5,6 @@
  
  3.Shell scripts for intron retention analysis
  
- 4.R scripts for differential expression analysis using DESeq2
+ 4.R scripts for differential expression analysis using DESeq2 (Wrong file)
  
  5.R scriptis for Single cell RNA-Seq with sample data using Seurat3
